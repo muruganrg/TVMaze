@@ -1,6 +1,6 @@
 # Advice_Generator
         This is a dynamic responsive website used to view details about actor or movies.
-        TechStack used was HTML, CSS, js and React. 
+        TechStack used was HTML, CSS, JS and React. 
         No database is used. Google font and TV Maze API were used.
         This website can be viewed in pc, mobile and also in ipad.
         
